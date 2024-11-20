@@ -1,0 +1,1 @@
+Versão Pre-beta 0.2 -Tentativa de fazer os personagens irem para trás. Meio sucesso. Separação de variável necessária.
